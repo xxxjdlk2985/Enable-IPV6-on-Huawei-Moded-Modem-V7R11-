@@ -8,7 +8,7 @@ Requirements:
 Steps:
 1. Download fixipv6 to the pc.
 2. Connect pc to modem using LAN cable.
-3. Open XAMPP and enable apache.
+3. Open XAMPP and start apache.
 4. Copy fixipv6 to XAMPP directory : C:\xampp\htdocs\dashboard
 5. Go to browser and surf http://localhost/ to confirm that apache server is working.
 6. Open CMD, type ipconfig then press enter to get ipv4 address for pc.
