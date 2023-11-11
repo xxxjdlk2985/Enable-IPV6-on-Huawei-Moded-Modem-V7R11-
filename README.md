@@ -3,7 +3,7 @@
 Requirements:
 1. Putty
 2. XAMPP
-3. ADB Telnet enabled on the modem
+3. Enabled ADB Telnet on the modem
 
 Steps:
 1. Download fixipv6 to the pc.
