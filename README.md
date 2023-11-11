@@ -13,4 +13,4 @@ Steps:
 6. Type ./fixipv6 then press enter.
 7. After the script was finished, type reboot then press enter. The modem will be reboot.
 
-This process will reset the modem to factory default. The administration login will change as admin:admin. WiFi SSID and Password need to be setting after process.
+This process will reset the modem to factory default. The administration login will change as admin:admin. WiFi SSID and Password need to be setting after the process.
