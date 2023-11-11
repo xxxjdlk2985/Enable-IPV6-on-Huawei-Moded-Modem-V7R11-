@@ -2,12 +2,12 @@
 
 Requirements:
 1. Putty
-2. WinSCP
+2. XAMPP
 
 Steps:
 1. Download fixipv6 to the pc.
 2. Connect pc to modem using LAN cable.
-3. Transfer fixipv6 to the modem thru WinSCP at directory /tmp/
+3. Open XAMPP and enable apache.
 4. Login to the modem as Telnet(Port 23) by Putty as root@192.168.8.1
 5. Type cd /tmp/ then press enter.
 6. Type chmod 755 fixipv6 then press enter.
