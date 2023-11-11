@@ -1,4 +1,4 @@
-# Enable IPV6 on Huawei Moded Modem(V7R11)
+# Enabling IPV6 on Huawei Moded Modem(V7R11)
 
 Requirements:
 1. Putty
@@ -14,7 +14,7 @@ Steps:
 6. Open CMD, type ipconfig then press enter to get ipv4 address for pc.
 7. Login to the modem as Telnet(Port 23) by Putty as root@192.168.8.1
 8. Type cd /tmp/ then press enter.
-9. Type busybox-1.31.1 wget http://ip.pc/dashboard/fixipv6 replace ip.pc with ipv4 address for pc from CMD. then press enter.
+9. Type busybox-1.31.1 wget http://ip.pc/dashboard/fixipv6. Replace ip.pc with ipv4 address for pc from CMD. then press enter.
 10. Type chmod 755 fixipv6 then press enter.
 11. Type ./fixipv6 then press enter.
 12. After the script was finished, type reboot then press enter. The modem will be reboot.
