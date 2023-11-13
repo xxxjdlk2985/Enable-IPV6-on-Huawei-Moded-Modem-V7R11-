@@ -6,7 +6,7 @@ Requirements:
 3. Enabled ADB Telnet on the modem
 
 Steps:
-1. Download fixipv6 to the pc.
+1. Download file fixipv6 to the pc.
 2. Connect pc to modem using LAN cable.
 3. Open XAMPP and start apache.
 4. Copy fixipv6 to XAMPP directory : C:\xampp\htdocs\dashboard
