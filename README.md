@@ -1,4 +1,4 @@
-# Enabling IPV6 on Huawei Moded Modem(V7R11)
+# Enabling IPV6 on Huawei Moded Modem(Support for Firmware V11 & V81)
 
 Requirements:
 1. Putty
