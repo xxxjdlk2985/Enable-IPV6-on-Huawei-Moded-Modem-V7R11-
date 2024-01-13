@@ -10,7 +10,7 @@ Steps:
 2. Connect pc to modem using LAN cable.
 3. Open XAMPP and start apache.
 4. Copy fixipv6 to XAMPP directory : C:\xampp\htdocs\dashboard
-5. Go to browser and surf http://localhost/ to confirm that apache server is working.
+5. Go to browser and surf http://localhost/ to confirm that apache server is running.
 6. Open CMD, type ipconfig then press enter to get ipv4 address for pc.
 7. Login to the modem as Telnet(Port 23) by Putty as root@192.168.8.1
 8. Type cd /tmp/ then press enter.
